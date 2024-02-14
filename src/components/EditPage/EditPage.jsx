@@ -59,7 +59,7 @@ export default function EditPage() {
                                         {val.name}
                                     </td>
                                     <td className='second__row' >
-                                        {val.type == 'marker' ? 'Маркер' : 'Линия'}
+                                        {val.type == 'marker' ? 'Точка' : 'Линия'}
                                     </td>
                                     <td className='third__row' >
                                         {val.coordinates}

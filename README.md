@@ -1,4 +1,4 @@
 How to launch:
 
 1. npm install
-2. nom run dev
+2. npm run dev
